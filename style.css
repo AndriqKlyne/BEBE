@@ -1,0 +1,64 @@
+
+body{
+    background-image: linear-gradient(#de6262,#ffb88c);
+}
+html{
+    font-family: century gothic;
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 15%;
+    height: auto;
+}
+.buttons{
+    text-align: justify;
+    
+}
+#By{
+    top:382px; 
+    width:100px; 
+    height:200px;
+    margin-left: 500px;
+    margin-right: auto;
+    left: 1;
+    right: 1;
+   
+}
+#Bn{
+    position:absolute;
+    top:484px; 
+    width:210px; 
+    height:210px;
+    margin-left: 750px;
+    margin-right: auto;
+    left: 0;
+    right: 0;
+   
+}
+button{
+    font-size: 50px;
+    padding: 15px;
+    background-color: yellowgreen;
+    border-radius: 12px;
+    border: 0px;
+}
+button:hover{
+    transition: 0.3s;
+    background-color:gold;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+p{
+    text-align: center;
+    border-radius: 2rem;
+    padding: 30px;
+    margin: 40px;
+    background-color: #F5F7FA;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+    font-size: 20px;
+}
